@@ -1,8 +1,8 @@
-#RIME 台語輸入方案
+# RIME 台語輸入方案
 
 感謝 [a-thok/rime-hokkien](https://github.com/a-thok/rime-hokkien) 。
 
-##安裝
+## 安裝
 
 1. 安裝 [RIME](http://rime.im)
 2. 下載 [rime-taigi](https://github.com/glll4678/rime-taigi/archive/master.zip)
@@ -14,6 +14,6 @@
 
 （建議安裝 [思源黑體](https://github.com/adobe-fonts/source-han-sans)、[tshiuthau-oo-taigi](https://github.com/glll4678/tshiu-thau-oo)、[Fira](https://github.com/mozilla/Fira) 字型。）
 
-##版本
+## 版本
 
 20170920
