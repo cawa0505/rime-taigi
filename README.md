@@ -12,7 +12,7 @@
 	中州韻：`~/.config/ibus/rime/`(ibus)
 4. 「重新部署」
 
-（建議安裝 [思源黑體](https://github.com/adobe-fonts/source-han-sans)、[tshiuthau-oo-taigi](https://github.com/glll4678/tshiu-thau-oo)、[Fira](https://github.com/mozilla/Fira) 字型。）
+（建議安裝 [思源黑體](https://github.com/adobe-fonts/source-han-sans)、[tshiuthau-oo-taigi](https://github.com/glll4678/tshiuthau)、[Fira](https://github.com/mozilla/Fira) 字型。）
 
 ## 版本
 
